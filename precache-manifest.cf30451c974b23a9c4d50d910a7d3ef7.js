@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75955e61960e969ee266d21a815db108",
+    "revision": "568d223cb3f5af033e1523f532afdbc3",
     "url": "/everett-feed/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/everett-feed/static/css/2.5716b6af.chunk.css"
   },
   {
-    "revision": "76947eb4839728c58ca2",
-    "url": "/everett-feed/static/css/main.a7a096e5.chunk.css"
+    "revision": "e8efce3563c22215dd5d",
+    "url": "/everett-feed/static/css/main.b8413346.chunk.css"
   },
   {
     "revision": "3f6d3d0cc9584c0b4bd8",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/everett-feed/static/js/2.89df041f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76947eb4839728c58ca2",
+    "revision": "e8efce3563c22215dd5d",
     "url": "/everett-feed/static/js/main.7382e12d.chunk.js"
   },
   {

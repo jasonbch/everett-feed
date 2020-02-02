@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/everett-feed/precache-manifest.6dd392eeb4b57b644634e925a3b5c0d4.js"
+  "/everett-feed/precache-manifest.cf30451c974b23a9c4d50d910a7d3ef7.js"
 );
 
 self.addEventListener('message', (event) => {

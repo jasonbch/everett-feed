@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/everett-feed/static/css/main.a7a096e5.chunk.css",
+    "main.css": "/everett-feed/static/css/main.b8413346.chunk.css",
     "main.js": "/everett-feed/static/js/main.7382e12d.chunk.js",
     "main.js.map": "/everett-feed/static/js/main.7382e12d.chunk.js.map",
     "runtime-main.js": "/everett-feed/static/js/runtime-main.78e0aedb.js",
@@ -9,10 +9,10 @@
     "static/js/2.89df041f.chunk.js": "/everett-feed/static/js/2.89df041f.chunk.js",
     "static/js/2.89df041f.chunk.js.map": "/everett-feed/static/js/2.89df041f.chunk.js.map",
     "index.html": "/everett-feed/index.html",
-    "precache-manifest.6dd392eeb4b57b644634e925a3b5c0d4.js": "/everett-feed/precache-manifest.6dd392eeb4b57b644634e925a3b5c0d4.js",
+    "precache-manifest.cf30451c974b23a9c4d50d910a7d3ef7.js": "/everett-feed/precache-manifest.cf30451c974b23a9c4d50d910a7d3ef7.js",
     "service-worker.js": "/everett-feed/service-worker.js",
     "static/css/2.5716b6af.chunk.css.map": "/everett-feed/static/css/2.5716b6af.chunk.css.map",
-    "static/css/main.a7a096e5.chunk.css.map": "/everett-feed/static/css/main.a7a096e5.chunk.css.map",
+    "static/css/main.b8413346.chunk.css.map": "/everett-feed/static/css/main.b8413346.chunk.css.map",
     "static/js/2.89df041f.chunk.js.LICENSE.txt": "/everett-feed/static/js/2.89df041f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/everett-feed/static/media/bg.38f2f013.jpg",
     "static/media/semantic.min.css": "/everett-feed/static/media/outline-icons.ef60a4f6.woff"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.78e0aedb.js",
     "static/css/2.5716b6af.chunk.css",
     "static/js/2.89df041f.chunk.js",
-    "static/css/main.a7a096e5.chunk.css",
+    "static/css/main.b8413346.chunk.css",
     "static/js/main.7382e12d.chunk.js"
   ]
 }
